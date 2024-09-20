@@ -10,7 +10,8 @@ The C++ program simulates a basic cryptocurrency trading application, allowing u
 4. **Transaction History**: View and clear transaction logs.
 
 
-## Future Enhancements:
-1.Integrate live cryptocurrency pricing from APIs.;
-2.Improve input validation for user interactions.;
-3.Enhance the random purchasing logic for a more realistic trading experience.;
+## Future Enhancements
+
+1. **Integrate live cryptocurrency pricing** from APIs.
+2. **Improve input validation** for user interactions.
+3. **Enhance the random purchasing logic** for a more realistic trading experience.
